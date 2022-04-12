@@ -1,0 +1,27 @@
+
+html {
+cursor: url();
+background-color: rgb(33, 33, 33);
+}
+.NavButtons2 {
+background-color: rgba(0, 0, 0, 0.437);
+border: none;
+color: white;
+font-size: 20px;
+padding: 14px;
+font-family: 'Raleway-Medium';
+margin: -2px;
+border-radius: 0px;
+}
+.NavButtons2:hover {
+background-color: white;
+color: black;
+}
+.NigosText {
+color: white;
+font-family: 'Raleway-Medium';
+}
+@font-face {
+    font-family: 'Raleway-Medium';
+    src: url(sources/fonts/Raleway-Medium.ttf);
+}
